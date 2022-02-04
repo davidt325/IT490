@@ -1,0 +1,22 @@
+#1 git add (file)
+#2 git commit -m "Text"
+#3 git push origin master
+
+
+git pull origin master
+java -jar ProgramName.jar port#
+
+
+To delete a whole folder and its content recursively, you can use:
+
+rm -rf foldername/
+
+nano
+
+git checkout -b (branch)
+
+C:\Users\Pablo\OneDrive\Documents\eclipse\eclipse\jre\bin
+
+
+ssh pm543@afsconnect1.njit.edu
+
